@@ -2,17 +2,17 @@
 
 // If there is no license, return an empty string
 //function renderLicenseBadge(license) {
-  //if (strLicense=== "") {
-    //return (!strLicense)
-  //} 
+ // if (license === null) {
+   // return ("")
+  /} 
   
 
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-String.prototype.isEmpty = function() {
-  return (this.length === 0 || !this.trim());
-};
+//String.prototype.isEmpty = function() {
+  //return (" ");
+//};
 
 
 // TODO: Create a function that returns the license section of README
